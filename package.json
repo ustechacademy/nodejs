@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "express": "^4.18.2",
+    "lower-case": "^2.0.1",
+    "trimmer": "^2.0.0",
+    "upper-case": "^2.0.2"
+  },
+  "scripts": {
+    "start": "node ./app.js",
+    "dev": "nodemon ./app.js"
+  }
+}
